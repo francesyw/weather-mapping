@@ -1,4 +1,6 @@
 /*
+ *  Author: Frances Yuan Wang 
+ *  Link - https://github.com/francesyw
  *  week 08 examples: Visualizing weather data
  *  description:      Visualize the forecast data from a json file   
  */
